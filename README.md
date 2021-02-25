@@ -21,5 +21,5 @@
 
 5. Deploy your App to Heroku (https://dev.to/smithmanny/deploy-your-react-app-to-heroku-2b6f)
 
-6. Deploy your App as an Azure Webapp (https://devblogs.microsoft.com/premier-developer/deploying-react-apps-to-azure-with-azure-devops/)
+https://lab3ieti.herokuapp.com/
 
