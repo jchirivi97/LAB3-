@@ -25,11 +25,6 @@ class App extends Component {
         return (
             <Router>
                 <div className="App">
-                    <header className="App-header">
-                        <img src={logo} className="App-logo" alt="logo"/>
-                        <h1 className="App-title">TODO React App</h1>
-                    </header>
-                    <br/>
                     <ul>
                         <li><Link to="/">Login</Link></li>
                         <li><Link to="/todo" >Menu</Link></li>
